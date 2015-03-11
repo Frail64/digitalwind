@@ -10,3 +10,9 @@ C:\Users\Vladislav_Kudashev\Desktop\qwe\digitalwind\WebApplication3\WebApplicati
 C:\Users\Vladislav_Kudashev\Desktop\qwe\digitalwind\WebApplication3\WebApplication3\obj\Debug\SaratovWebSite.csprojResolveAssemblyReference.cache
 C:\Users\Vladislav_Kudashev\Desktop\qwe\digitalwind\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
 C:\Users\Vladislav_Kudashev\Desktop\qwe\digitalwind\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\frail64\Desktop\digitalwind\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\frail64\Desktop\digitalwind\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\frail64\Desktop\digitalwind\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\frail64\Desktop\digitalwind\WebApplication3\WebApplication3\obj\Debug\SaratovWebSite.csprojResolveAssemblyReference.cache
+C:\Users\frail64\Desktop\digitalwind\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\frail64\Desktop\digitalwind\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
